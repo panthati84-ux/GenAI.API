@@ -321,8 +321,7 @@ This project demonstrates:
 
 **Praveen Anthati**
 
-Senior .NET Full Stack Developer
+Senior .NET Developer
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub.
